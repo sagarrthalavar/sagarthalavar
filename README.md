@@ -1,2 +1,2 @@
-# sagarthalavar.github.io
+# sagarthalavar
 This is my personal portfolio page
